@@ -1,0 +1,88 @@
+﻿Breed,HDB Approved,Size,Obedience,Longevity,Purchase Price,Yearly Food Costs,Grooming,Suitability for Children
+Affenpinscher,Yes,Small,37,11.42,$510,$324,2,2
+Afghan Hound,No,Large,80,11.92,$890,$710,1,1
+Akita,No,Large,54,10.16,"$1,202",$710,2,3
+Alaskan Malamute,No,Large,50,10.67,"$1,210",$710,1,2
+Australian Cattle Dog,No,Medium,10,11.67,$530,$466,2,3
+Australian Shepherd,No,Medium,42,12.28,$565,$466,2,2
+Australian Terrier,Yes,Small,34,11.05,$640,$324,2,2
+Basenji,No,Medium,79,13.58,$940,$324,2,2
+Basset Hound,No,Small,71,11.43,$490,$324,2,1
+Beagle,No,Small,73,12.3,$288,$324,1,1
+Bedlington Terrier,No,Small,40,13.51,"$1,058",$324,2,2
+Belgian Tervuren,No,Large,14,10.6,"$1,070",$466,2,1
+Bernese Mountain Dog,No,Large,22,7.56,"$1,320",$710,2,1
+Bichon Frise,Yes,Small,45,12.21,$693,$324,1,1
+Bloodhound,No,Large,75,6.75,$608,$710,2,2
+Border Collie,No,Medium,1,12.52,$623,$324,2,3
+Border Terrier,Yes,Small,30,14,$833,$324,2,1
+Borzoi,No,Large,76,9.08,$675,$466,1,2
+Boston Terrier,Yes,Medium,54,10.92,$690,$324,2,1
+Bouvier des Flandres,No,Large,29,10.34,"$1,335",$466,2,1
+Boxer,No,Medium,48,8.81,$700,$466,2,1
+Briard,No,Large,30,11.17,$650,$466,1,1
+Brittany,No,Medium,19,12.92,$618,$466,2,2
+Brussels Griffon,Yes,Small,59,12,$833,$324,2,3
+Bull Terrier,No,Medium,66,10.21,"$1,085",$466,2,2
+Bulldog,No,Medium,78,6.29,"$2,680",$466,2,2
+Bullmastiff,No,Large,69,7.57,$980,$466,2,1
+Cairn Terrier,Yes,Small,35,13.84,$435,$324,2,1
+Cavalier King Charles Spaniel,Yes,Small,44,11.29,"$1,017",$324,2,1
+Chesapeake Bay Retriever,No,Large,27,9.48,$522,$466,2,1
+Chihuahua,Yes,Small,67,16.5,$588,$324,2,3
+Chow Chow,No,Medium,77,9.01,$515,$466,1,2
+Clumber Spaniel,No,Medium,37,10,"$1,033",$466,2,1
+Cocker Spaniel,No,Small,20,12.5,$465,$674,2,1
+Dachshund,Yes,Small,49,12.63,$423,$324,2,3
+Dalmatian,No,Medium,39,11.27,$695,$466,2,1
+Dandie Dinmont Terrier,Yes,Small,62,12.17,$925,$466,1,1
+Doberman Pinscher,No,Large,5,10.33,$790,$466,2,2
+English Cocker Spaniel,No,Medium,18,11.66,$800,$324,2,1
+English Setter,No,Large,37,11.57,$615,$466,2,1
+English Springer Spaniel,No,Medium,13,12.54,$615,$466,2,1
+English Toy Spaniel,Yes,Small,45,10.1,$925,$405,2,2
+Flat-Coated Retriever,No,Medium,18,9.02,$600,$466,1,1
+French Bulldog,No,Medium,58,9,"$1,900",$466,2,1
+German Shepherd,No,Large,3,9.73,$820,$466,2,2
+German Shorthaired Pointer,No,Large,17,11.46,$545,$971,2,1
+Giant Schnauzer,No,Large,28,10,$810,"$1,349",1,2
+Golden Retriever,No,Medium,4,12.04,$958,$466,2,1
+Gordon Setter,No,Large,34,11.1,$700,$466,2,1
+Great Dane,No,Large,48,6.96,"$1,040",$710,2,1
+Greyhound,No,Large,46,9.36,"$1,175",$324,2,1
+Irish Setter,No,Large,35,11.63,$525,$466,2,1
+Irish Wolfhound,No,Large,41,6.94,"$1,333","$1,217",2,1
+Italian Greyhound,Yes,Small,60,10.02,$800,$324,2,3
+Kerry Blue Terrier,No,Medium,35,9.4,"$1,200",$466,1,2
+Labrador Retriever,No,Medium,7,12.04,$810,$466,2,1
+Lhasa Apso,Yes,Small,68,13.92,$350,$324,2,1
+Maltese,Yes,Small,59,12.25,$650,$270,1,3
+Mastiff,No,Large,72,6.5,$900,$701,2,1
+Miniature Schnauzer,Yes,Small,12,11.81,$715,$405,2,2
+Newfoundland,No,Large,34,9.32,"$1,178",$710,2,1
+Norfolk Terrier,Yes,Small,56,13.07,"$2,083",$466,2,2
+Old English Sheepdog,No,Medium,63,11.19,$832,$710,1,1
+Papillon,Yes,Small,8,13,$740,$324,2,2
+Pekingese,No,Small,74,11.56,$885,$466,1,2
+Pembroke Welsh Corgi,No,Small,11,12.25,$587,$674,2,1
+Pharaoh Hound,No,Medium,37,11.83,$913,$466,2,2
+Pointer,No,Large,43,12.42,$294,$710,2,1
+Pomeranian,Yes,Small,23,9.67,$670,$324,2,2
+Poodle,Yes,Medium,2,11.95,$900,$466,2,2
+Pug,Yes,Medium,57,11,$469,$405,2,1
+Rhodesian Ridgeback,No,Large,52,9.1,$995,$466,2,2
+Rottweiler,No,Large,9,9.11,"$1,118",$710,2,2
+Saint Bernard,No,Large,65,7.78,$875,"$1,217",1,1
+Saluki,No,Medium,43,12,"$1,525",$710,1,1
+Samoyed,No,Medium,33,12.44,"$1,162",$710,2,1
+Scottish Terrier,Yes,Small,65,10.69,$829,$324,1,2
+Shetland Sheepdog,Yes,Small,6,12.53,$465,$405,1,1
+Shih Tzu,Yes,Small,70,13.2,$583,$324,1,1
+Siberian Husky,No,Medium,45,12.58,$650,$466,3,1
+Staffordshire Bull Terrier,No,Medium,49,12.05,"$1,145",$466,2,1
+Tibetan Spaniel,Yes,Small,46,14.42,"$1,050",$466,2,1
+Tibetan Terrier,No,Small,62,12.31,"$1,140",$324,2,2
+Welsh Springer Spaniel,No,Medium,31,12.49,$750,$324,2,1
+West Highland White Terrier,Yes,Small,47,12.8,$538,$324,2,1
+Whippet,No,Medium,51,12.87,$915,$324,2,2
+Yorkshire Terrier,Yes,Small,27,12.6,"$1,057",$324,1,3
